@@ -13,8 +13,8 @@ We have created our product to be a direct competitor to traditional banks and a
 We never take custody over your funds while being completely transparent and decentralized by keeping all our transactions,documents and codebase publicly accessible.
 
 - [Website](https://www.xade.finance)
-- [Mainnet Web Application (V0)](https://app.xade.finance) (Launching on 5th January 2023)
-- [Testnet Web Application (V1)](https://testnet.app.xade.finance)
+- [Mainnet Web Application (V0)](https://app.xade.finance)
+- [Shardeum Testnet Web Application (V1)](https://shardeum.app.xade.finance)
 - [Twitter](https://twitter.com/xadefinance) [Instagram](https://www.instagram.com/xade.finance), [Medium](https://www.medium.com/@XadeFinance), [YouTube](https://www.youtube.com/@xadefinance)
 
 ***
