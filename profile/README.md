@@ -2,9 +2,10 @@
 <img width="1095" alt="header" src="./Banner.jpg" style="margin-bottom: 10px;">
 <hr>
 
-<center>
-<img src="https://media.licdn.com/dms/image/D4D0BAQE-DR87MV5E2A/company-logo_200_200/0/1666890424616?e=2147483647&v=beta&t=OxI_r4czv8iEamU-V05b62yOX_Xy4dh6a02UOFWtXFM" style="margin-top:20px" width="120" height="120" align="center">
-</center><br/>
+<div align="center">
+<img src="https://media.licdn.com/dms/image/D4D0BAQE-DR87MV5E2A/company-logo_200_200/0/1666890424616?e=2147483647&v=beta&t=OxI_r4czv8iEamU-V05b62yOX_Xy4dh6a02UOFWtXFM" style="margin-top:20px" width="120" height="120" align="center"> </div>
+
+<br/>
 <h2 align="center" style="font-weight:bold" >Xade Finance</h1>
 
   <div align="center" >
