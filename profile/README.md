@@ -8,7 +8,7 @@
     The super decentralised bank which provides all banking services on chain powered by our in-house DeFi protocols
     </span><br/><br/>
     <a  href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
+    <br /><br/>
     <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
