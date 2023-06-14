@@ -1,6 +1,21 @@
-# Xade Finance 
 
-> The super decentralised bank which provides all banking services on chain powered by our in-house DeFi protocols
+<img width="1095" alt="header" src="./Banner.jpg" style="margin-bottom: 10px;">
+
+<h1 align="center" style="font-weight:bold" >Xade Finance</h1>
+
+  <div align="center" >
+  <span >
+    The super decentralised bank which provides all banking services on chain powered by our in-house DeFi protocols
+    </span><br/><br/>
+    <a  href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </div>
+  <br/>
 
 Xade is the hybrid solution between DeFi and traditional banks which provides all banking services powered by our in-house DeFi protocols with the user experience of a digital bank in the most transparent, efficient and secure manner.
 
