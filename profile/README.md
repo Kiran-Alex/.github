@@ -6,7 +6,7 @@
 <img src="https://media.licdn.com/dms/image/D4D0BAQE-DR87MV5E2A/company-logo_200_200/0/1666890424616?e=2147483647&v=beta&t=OxI_r4czv8iEamU-V05b62yOX_Xy4dh6a02UOFWtXFM" style="margin-top:20px" width="120" height="120" align="center"> </div>
 
 <br/>
-<h2 align="center" style="font-weight:bold" >Xade Finance</h1>
+<p align="center" style="font-weight:bold;font-size : 27px" >Xade Finance</p>
 
   <div align="center" >
   <span >
@@ -25,28 +25,28 @@
 
 
 ## 𝗔𝗯𝗼𝘂𝘁 𝗧𝗵𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
-<hr>
+
 Lorem ipsum dolor sit amet. 33 velit nobis eos quibusdam aliquam sit iste voluptatum ut eius saepe vel molestiae perferendis quo placeat aliquam. At animi quasi ut optio suscipit aut fugit doloremque.
 Vel excepturi dolorem qui facere impedit non deleniti dolores et vitae voluptatem. Ut tempora suscipit aut beatae consequuntur sed mollitia assumenda qui placeat magni.Ut tempora suscipit aut beatae consequuntur sed mollitia assumenda qui placeat magni.placeat magni.mollitia assumenda qui placeat magni.
 <br/>
 <br/>
 
 ## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
-<hr>
+
 Lorem ipsum dolor sit amet. 33 velit nobis eos quibusdam aliquam sit iste voluptatum ut eius saepe vel molestiae perferendis quo placeat aliquam. At animi quasi ut optio suscipit aut fugit doloremque.
 Vel excepturi dolorem qui facere impedit non deleniti dolores et vitae voluptatem. Ut tempora suscipit aut beatae consequuntur sed mollitia assumenda qui placeat magni.Ut tempora suscipit aut beatae consequuntur sed mollitia assumenda qui placeat magni.placeat magni.mollitia assumenda qui placeat magni.
 <br/>
 <br/>
 
 ## 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀
-<hr>
+
 Lorem ipsum dolor sit amet. 33 velit nobis eos quibusdam aliquam sit iste voluptatum ut eius saepe vel molestiae perferendis quo placeat aliquam. At animi quasi ut optio suscipit aut fugit doloremque.
 Vel excepturi dolorem qui facere impedit non deleniti dolores et vitae voluptatem. Ut tempora suscipit aut beatae consequuntur sed mollitia assumenda qui placeat magni.Ut tempora suscipit aut beatae consequuntur sed mollitia assumenda qui placeat magni.placeat magni.mollitia assumenda qui placeat magni.
 <br/>
 <br/>
 
 ## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝗢𝗳 T𝗵𝗲 𝗔𝗽𝗽
-<hr>
+
 Lorem ipsum dolor sit amet. 33 velit nobis eos quibusdam aliquam sit iste voluptatum ut eius saepe vel molestiae perferendis quo placeat aliquam. At animi quasi ut optio suscipit aut fugit doloremque.
 Vel excepturi dolorem qui facere impedit non deleniti dolores et vitae voluptatem. Ut tempora suscipit aut beatae consequuntur sed mollitia assumenda qui placeat magni.Ut tempora suscipit aut beatae consequuntur sed mollitia assumenda qui placeat magni.placeat magni.mollitia assumenda qui placeat magni.
 <br/>
@@ -56,7 +56,7 @@ Vel excepturi dolorem qui facere impedit non deleniti dolores et vitae voluptate
 <br/>
 
 ## 𝗟𝗶𝗻𝗸𝘀
-<hr>
+
 
 - [Website](https://www.xade.finance)
 - [Mainnet Web Application (V0)](https://app.xade.finance)
