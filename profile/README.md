@@ -5,8 +5,9 @@
 <div align="center">
 <img src="https://media.licdn.com/dms/image/D4D0BAQE-DR87MV5E2A/company-logo_200_200/0/1666890424616?e=2147483647&v=beta&t=OxI_r4czv8iEamU-V05b62yOX_Xy4dh6a02UOFWtXFM" style="margin-top:20px" width="120" height="120" align="center"> </div>
 
-<br/><b>
-<span style="display: block; text-align: center; margin: 0 auto;font-size:26px">Xade Finance</span><b/>
+<br/><div style="text-align : center;"><b>
+<span style=" margin: 0 auto; font-size: 26px;">Xade Finance</span><b></div>
+
 
   <div align="center" >
   <span >
