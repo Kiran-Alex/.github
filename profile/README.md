@@ -6,7 +6,7 @@
 <img src="https://media.licdn.com/dms/image/D4D0BAQE-DR87MV5E2A/company-logo_200_200/0/1666890424616?e=2147483647&v=beta&t=OxI_r4czv8iEamU-V05b62yOX_Xy4dh6a02UOFWtXFM" style="margin-top:20px" width="120" height="120" align="center"> </div>
 
 <br/>
-<h3 align="center" style="font-weight:bolder;font-size : 1.6em" >Xade Finance</h3>
+<h2 align="center" style="font-weight:bolder;font-size : 1.6em;" >Xade Finance</h2>
 
   <div align="center" >
   <span >
